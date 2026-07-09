@@ -18,13 +18,11 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "HCF",
-        "KitMap"
+        "Factions",
     ],
     "primaryGameType": "HCF",
     "crossplay": false,
     "offline": false,
     "website": "https://ragemc.rip",
-    "discord": "https://discord.gg/ragenetwork"
+    
 }
