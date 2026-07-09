@@ -1,7 +1,30 @@
 {
-  "ip": "ragemc.rip",
-  "name": "RageMC",
-  "website": "https://ragemc.rip",
-  "discord": "https://discord.gg/ragenetwork",
-  "description": "Minecraft HCF & Kitmap Server the NEW era."
+    "id": "ragemc",
+    "name": "RageMC",
+    "description": "Competitive HCF & KitMap PvP server with events and active gameplay.",
+    "addresses": [
+        "ragemc.rip"
+    ],
+    "primaryAddress": "ragemc.rip",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D10000",
+    "secondaryColor": "#1A1A1A",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "KitMap"
+    ],
+    "primaryGameType": "HCF",
+    "crossplay": false,
+    "offline": false,
+    "website": "https://ragemc.rip",
+    "discord": "https://discord.gg/TUINVITE"
 }
