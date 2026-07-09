@@ -1,7 +1,7 @@
 {
     "id": "ragemc",
     "name": "RageMC",
-    "description": "Competitive HCF & KitMap PvP server with events and active gameplay.",
+    "description": "Competitive HCF PvP server with events and active gameplay.",
     "addresses": [
         "ragemc.rip"
     ],
@@ -18,11 +18,11 @@
         "EU"
     ],
     "gameTypes": [
-        "Factions",
+        "HCF",
+        "PvP"
     ],
     "primaryGameType": "HCF",
     "crossplay": false,
     "offline": false,
-    "website": "https://ragemc.rip",
-    
+    "website": "https://ragemc.rip"
 }
